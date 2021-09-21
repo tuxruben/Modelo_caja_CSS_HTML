@@ -1,0 +1,15 @@
+p {
+	border: 1px solid red;
+}
+.central {
+	margin: 30px;
+	padding: 10px;
+	width: 250px;
+	height: 120px;
+	background-image: url(../modelo_de_caja/images.png);
+	background-color: beige;
+}
+a{
+	margin: 20px;
+	padding: 15px;
+}
